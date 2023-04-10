@@ -1,6 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Infusing Stable Diffusion (Image to Image generation)"
+excerpt: "For my capstone project, we worked on generating Images to create consistent images for commics. For this I developed a new approach for image to image generation, where prior images could be used to bias the Stable Diffusion process.  <br/><img src='/images/Infusion.png' width='50%'> <br/> [Colab Notebook](https://colab.research.google.com/drive/1yEt098MTipqjariyV4N6So4Hif5sEhoH#scrollTo=-xMJ6LaET6dT), 
+  [PDF of report](/files/Capstone.pdf)"
 collection: portfolio
 ---
 
