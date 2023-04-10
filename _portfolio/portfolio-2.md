@@ -23,3 +23,11 @@ The aim of IdeaNet is to make it easier to find people, especially strangers to 
 The technology behind IdeaNet is a simple web app that allows users to create Ideas that are automatically matched with other similar interests.
 A Sagemaker endpoint is used to generate embeddings for each Idea using SentBERT, and the embeddings are used to find similar Ideas through cos similarity.
 The Embeddings are stored in a Database, and similarity scores is used to match Ideas with similar interests.
+
+## Formulating the challenge in Teammatching
+
+The challenge with teammatching can be broken down into two parts:
+1. First finding people that may be interested in the same project.
+2. Second, creating a conversation where details are discussed before forming a team.
+
+The key part to the first step is to allow people to share their ideas or to collect them in some manner. This way they can be found by others. For the second part, there are several aspects that need to be discussed. These include the project details, the team members, and the time commitment. The second part is more of a communication problem, and is not addressed by IdeaNet, but it is a key part of the teammatching process.
