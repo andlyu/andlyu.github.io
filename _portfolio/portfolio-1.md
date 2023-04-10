@@ -1,7 +1,7 @@
 ---
 title: "Video Question Answering"
 excerpt: "Video Question Answering was a class project that I had worked on as part of the Question Answering Class (11-797). 
-For this project, I explored how temporal information in videos can be leveraged to improve Video Question Ansering <br/><img src='/images/VideoQA.png' width='30%'> <br/><!--Link to VideoQA.pdf--> [Project Paper](../files/VideoQA.pdf)"
+For this project, I explored how temporal information in videos can be leveraged to improve Video Question Ansering <br/><img src='/images/VideoQA.png' width='30%'> <br/><!--Link to VideoQA.pdf--> [Project Report](../files/VideoQA.pdf)"
 collection: portfolio
 ---
 
