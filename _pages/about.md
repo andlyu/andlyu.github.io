@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm Andrew. I'm a Machine Learning Engineer at Bloomfield Robotics, and a recent graduate from  Carnegie Mellon University.
 
-At CMU I had worked on multiple projects focused on multimodal machine learning, and NLP. Through this experience, I have been particularly drawn to the potential of video modality as a means of learning concepts in an unsupervized manner. In addition to my academic experience, I also completed an Applied Science Internship at Amazon's Machine Learning Solutions Lab, where I developed model that could generalize to multiple Information Extraction tasks and created a rigorous benchmarking framework to evaluate its performance.
+At CMU I had worked on multiple projects focused on multimodal machine learning, and NLP. Through this experience, I have been particularly drawn to the potential of video modality as a means of learning concepts in an unsupervized manner (find more details [here](/mission/)). In addition to my academic experience, I also completed an Applied Science Internship at Amazon's Machine Learning Solutions Lab, where I developed model that could generalize to multiple Information Extraction tasks and created a rigorous benchmarking framework to evaluate its performance.
 
 Growing up I was heavily involved in Gymnastics, and was fortunate enough to compete at the NCAA level. Feel free to find some videos [here](https://www.youtube.com/playlist?list=PL_06JTBLxSLdc-YZgW-NwlbsH-f6Gb1e5).
 
